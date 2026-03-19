@@ -189,4 +189,3 @@ where specialization is null;
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
-](https://github.com/Sriranjani28/19CS404-DBMS-Lab-Manual/tree/main/Experiment3_DML_Commands)
